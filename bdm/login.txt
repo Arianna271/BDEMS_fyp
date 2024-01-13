@@ -1,0 +1,12 @@
+[Donor]
+username : demo
+password : P@ssw0rd
+
+[Medical Professional]
+username : med
+pasword : P@ssw0rd
+
+
+[Admin]
+username : admin
+password : admin
